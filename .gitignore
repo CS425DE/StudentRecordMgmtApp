@@ -1,0 +1,18 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Compiled output and build artifacts
+out/
+build/
+
+# Ignoring Gradle specific files (if using Gradle)
+.gradle/
+
+# Ignoring Maven specific files (if using Maven)
+target/
+
+# Ignoring system and temporary files
+.DS_Store
+Thumbs.db
+*.swp
